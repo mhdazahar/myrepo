@@ -6,3 +6,4 @@ public class practice{
         System.out.println("sum"+"="+sum);
     }
 }
+# code for two digit sum
